@@ -2,7 +2,7 @@
 Jaewon Park
 2328614
 CPSC 350 - 01
-Assignment #1
+DNA assignment
 
 2.) Source Code File
 DNATest.cpp
